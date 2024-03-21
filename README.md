@@ -1,11 +1,10 @@
 # alcool-gasolina
-🚗 Aplicativo para calcular se é mais vantajoso abastecer com álcool ou gasolina com base nos preços e consumo do seu veículo. Desenvolvido com Flutter.
+🚗 Application to calculate whether it is more advantageous to refuel with ethanol or gasoline based on fuel prices and vehicle consumption. Developed with Flutter.
 
-## Funcionalidades
-
-- Calcula e compara o custo por quilômetro de cada tipo de combustível.
-- Permite que os usuários insiram os preços do álcool e da gasolina.
-- Permite que os usuários informem o consumo do veículo tanto para álcool quanto para gasolina.
-- Fornece uma recomendação sobre qual tipo de combustível é mais econômico com base nos dados inseridos.
+## Features
+- Calculates and compares the cost per kilometer of each type of fuel.
+- Allows users to input ethanol and gasoline prices.
+- Allows users to input vehicle consumption for both ethanol and gasoline.
+- Provides a recommendation on which type of fuel is more economical based on the inputted data.
 
 ## Ideia de app feita em cursos
